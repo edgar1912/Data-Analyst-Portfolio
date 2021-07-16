@@ -1,2 +1,2 @@
 # Data-Analyst-Portfolio
-Portfolio of data analytics projects I've done for self learning, academic and hobby purposes.
+This repository contains Data Analytics projects completed by me for self learning, academic and hobby purposes. The projects are presented in the form of iPython Nootebooks.

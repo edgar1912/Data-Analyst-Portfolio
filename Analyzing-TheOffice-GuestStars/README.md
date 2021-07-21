@@ -9,7 +9,7 @@ Topics covered in the project:
 
 ## Project description
 
-In this notebook, we will take a look at a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time. 
+In this notebook, I will take a look at a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time. 
 
 ## Questions and tasks for the project
 

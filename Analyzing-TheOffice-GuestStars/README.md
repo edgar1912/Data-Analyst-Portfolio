@@ -38,3 +38,7 @@ datasets/office_episodes.csv
 * writers: Writers of the episode.
 * has_guests: True/False column for whether the episode contained guest stars.
 * scaled_ratings: The ratings scaled from 0 (worst-reviewed) to 1 (best-reviewed).
+
+### Notes
+
+The dataset was downloaded from Kanggle, and the project tasks were provided by Datacamp.

@@ -10,7 +10,7 @@ Topics covered in the project:
 
 ## Project description
 
-In this project I will discover if Netflix's movies are getting shorter over time. As evidence of this, Datacamp have provided us with the following information. 
+In this project I will discover if Netflix's movies are getting shorter over time. As evidence of this, Datacamp has provided us with the following information. 
 For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
 
 ## Tasks for the project
